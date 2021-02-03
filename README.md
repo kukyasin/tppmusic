@@ -1,9 +1,9 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/eritislami/evobot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kukyasin/tppmusic)
 
 ![logo](https://repository-images.githubusercontent.com/186841818/8aa95700-7730-11e9-84be-e80f28520325)
 
-# 🤖 EvoBot (Discord Music Bot)
-> EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
+# 🤖 TppMusic(Discord Music Bot)
+> TppMusic is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
 
 ## Requirements
 
@@ -17,8 +17,8 @@
 If deploying to Heroku make sure to create config variables
 
 ```
-git clone https://github.com/eritislami/evobot.git
-cd evobot
+git clone https://github.com/kukyasin/tppmusic.git
+cd tppmusic
 npm install
 ```
 
@@ -112,8 +112,8 @@ Examples: `1` or `1,2,3`
 
 ## 🤝 Contributing
 
-1. [Fork the repository](https://github.com/eritislami/evobot/fork)
-2. Clone your fork: `git clone https://github.com/your-username/evobot.git`
+1. [Fork the repository](https://github.com/kukyasin/tppmusic/fork)
+2. Clone your fork: `git clone https://github.com/your-username/tppmusic.git`
 3. Create your feature branch: `git checkout -b my-new-feature`
 4. Commit your changes: `git commit -am 'Add some feature'`
 5. Push to the branch: `git push origin my-new-feature`

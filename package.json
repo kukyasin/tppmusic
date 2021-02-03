@@ -1,13 +1,13 @@
 {
-  "name": "evobot",
-  "version": "0.10.0",
+  "name": "tpp-music",
+  "version": "1.0.0",
   "description": "Discord music bot built with discord.js",
   "main": "index.js",
-  "author": "Erit Islami <eritislami@gmail.com>",
+  "author": "Yasin Kuk <yasin7kuk@gmail.com>",
   "private": true,
-  "homepage": "https://github.com/eritislami/evobot",
-  "repository": "github:eritislami/evobot",
-  "bugs": "https://github.com/eritislami/evobot/issues",
+  "homepage": "https://github.com/kukyasin/tppmusic",
+  "repository": "github:kukyasin/tppmusic",
+  "bugs": "https://github.com/kukyasin/tppmusic/issues",
   "engines": {
     "node": ">=14.0.0"
   },
